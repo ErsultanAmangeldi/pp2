@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Lab1\problem1\obj\Debug\netcoreapp2.1\problem1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Lab1\problem1\obj\Debug\netcoreapp2.1\problem1.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Lab1\problem1\obj\Debug\netcoreapp2.1\problem1.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Lab1\problem1\bin\Debug\netcoreapp2.1\problem1.deps.json
+C:\Users\Acer\source\repos\Lab1\problem1\bin\Debug\netcoreapp2.1\problem1.runtimeconfig.json
+C:\Users\Acer\source\repos\Lab1\problem1\bin\Debug\netcoreapp2.1\problem1.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Lab1\problem1\bin\Debug\netcoreapp2.1\problem1.dll
+C:\Users\Acer\source\repos\Lab1\problem1\bin\Debug\netcoreapp2.1\problem1.pdb
+C:\Users\Acer\source\repos\Lab1\problem1\obj\Debug\netcoreapp2.1\problem1.dll
+C:\Users\Acer\source\repos\Lab1\problem1\obj\Debug\netcoreapp2.1\problem1.pdb
+C:\Users\Acer\source\repos\Lab1\problem1\obj\Debug\netcoreapp2.1\problem1.csprojAssemblyReference.cache

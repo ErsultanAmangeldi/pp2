@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Lab1\problem4\bin\Debug\problem4.exe.config
+C:\Users\Acer\source\repos\Lab1\problem4\bin\Debug\problem4.exe
+C:\Users\Acer\source\repos\Lab1\problem4\bin\Debug\problem4.pdb
+C:\Users\Acer\source\repos\Lab1\problem4\obj\Debug\problem3.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Lab1\problem4\obj\Debug\problem3.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Lab1\problem4\obj\Debug\problem4.exe
+C:\Users\Acer\source\repos\Lab1\problem4\obj\Debug\problem4.pdb

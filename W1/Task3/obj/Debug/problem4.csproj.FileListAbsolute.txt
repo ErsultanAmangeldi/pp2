@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\Lab1\problem3\bin\Debug\problem3.exe.config
+C:\Users\Acer\source\repos\Lab1\problem3\bin\Debug\problem3.exe
+C:\Users\Acer\source\repos\Lab1\problem3\bin\Debug\problem3.pdb
+C:\Users\Acer\source\repos\Lab1\problem3\obj\Debug\problem4.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Lab1\problem3\obj\Debug\problem3.exe
+C:\Users\Acer\source\repos\Lab1\problem3\obj\Debug\problem3.pdb

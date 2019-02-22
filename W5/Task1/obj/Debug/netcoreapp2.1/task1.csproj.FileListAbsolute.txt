@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\w5\task1\bin\Debug\netcoreapp2.1\task1.deps.json
+C:\Users\Acer\source\repos\w5\task1\bin\Debug\netcoreapp2.1\task1.runtimeconfig.json
+C:\Users\Acer\source\repos\w5\task1\bin\Debug\netcoreapp2.1\task1.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\w5\task1\bin\Debug\netcoreapp2.1\task1.dll
+C:\Users\Acer\source\repos\w5\task1\bin\Debug\netcoreapp2.1\task1.pdb
+C:\Users\Acer\source\repos\w5\task1\obj\Debug\netcoreapp2.1\task1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\w5\task1\obj\Debug\netcoreapp2.1\task1.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\w5\task1\obj\Debug\netcoreapp2.1\task1.AssemblyInfo.cs
+C:\Users\Acer\source\repos\w5\task1\obj\Debug\netcoreapp2.1\task1.dll
+C:\Users\Acer\source\repos\w5\task1\obj\Debug\netcoreapp2.1\task1.pdb
+C:\Users\Acer\source\repos\w5\task1\obj\Debug\netcoreapp2.1\task1.csprojAssemblyReference.cache

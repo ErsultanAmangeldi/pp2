@@ -1,0 +1,8 @@
+C:\Users\Acer\source\repos\snake1\snake1\bin\Debug\snake1.exe.config
+C:\Users\Acer\source\repos\snake1\snake1\bin\Debug\snake1.exe
+C:\Users\Acer\source\repos\snake1\snake1\bin\Debug\snake1.pdb
+C:\Users\Acer\source\repos\snake1\snake1\obj\Debug\snake1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\snake1\snake1\obj\Debug\snake1.exe
+C:\Users\Acer\source\repos\snake1\snake1\obj\Debug\snake1.pdb
+C:\Users\Acer\source\repos\snake1\snake1\obj\Debug\snake1.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\snake1\snake1\bin\Debug\Levels\Level1.txt
